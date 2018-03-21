@@ -1,0 +1,13 @@
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\TestMerkle.deps.json
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\TestMerkle.runtimeconfig.json
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\TestMerkle.runtimeconfig.dev.json
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\TestMerkle.dll
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\TestMerkle.pdb
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\merkleroot.dll
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\bin\Release\netcoreapp2.0\merkleroot.pdb
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\obj\Release\netcoreapp2.0\TestMerkle.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\obj\Release\netcoreapp2.0\TestMerkle.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\obj\Release\netcoreapp2.0\TestMerkle.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\obj\Release\netcoreapp2.0\TestMerkle.AssemblyInfo.cs
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\obj\Release\netcoreapp2.0\TestMerkle.dll
+C:\Users\Diego\Desktop\vsmerkle\TestMerkle\obj\Release\netcoreapp2.0\TestMerkle.pdb

@@ -1,0 +1,9 @@
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\bin\Release\netstandard2.0\merkleroot.deps.json
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\bin\Release\netstandard2.0\merkleroot.dll
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\bin\Release\netstandard2.0\merkleroot.pdb
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\obj\Release\netstandard2.0\merkleroot.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\obj\Release\netstandard2.0\merkleroot.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\obj\Release\netstandard2.0\merkleroot.AssemblyInfo.cs
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\obj\Release\netstandard2.0\merkleroot.dll
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\obj\Release\netstandard2.0\merkleroot.pdb
+C:\Users\Diego\Desktop\vsmerkle\merkleroot\obj\Release\netstandard2.0\merkleroot.csprojResolveAssemblyReference.cache

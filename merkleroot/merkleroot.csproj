@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Calculate the Bitcoin Merkle Root Hash given an array of Hashes</Description>
+    <Copyright>Diego Aldo Burlando 2018</Copyright>
+    <Version>1.0.4</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Diego Aldo Burlando 2018</Authors>
+    <Company>DM</Company>
+    <Product>DM</Product>
+    <PackageProjectUrl>https://diegomary.github.io</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
