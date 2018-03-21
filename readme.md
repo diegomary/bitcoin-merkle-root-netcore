@@ -1,7 +1,7 @@
 bitcoin-merkle-root 
 ====================
-
-npm install bitcoin-merkle-root
+Using package manager console
+Install-Package merkleroot -Version 1.0.4
 
 The algorithm doesn’t use recursion anymore so there shouldn’t be any stack
 overflow for big sets of transactions hashes
